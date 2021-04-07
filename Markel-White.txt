@@ -25,27 +25,54 @@ link to finished code: https://codepen.io/markel-white/pen/jOyLdOW?editors=1100
     12. How many times can I use the same class on a page? 
      multiple
     13. How do I get my link to open in a new tab?
+     with the  href 
     14. What is the alt attribute in the image tag used for? 
+
     15. How do I reference an id?
+     div id= or in css #
     16. What is the difference between a section and a div
+     
     17. What is CSS used for? 
+     styling a web page
     18. How to we select an element? Example - every h2 on the page
+     with the simple h2
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+     id tags can only be used once and is used more for styling 
     20. How do we select classes in CSS?
+     with the . cmd
     21. How do we select a p element with a single class of “human””?
+     p human{}
     22. What is a parent child selector? When would this be useful? 
+     a selector within a selector
     23. How do you select all links within a div with the class of sidebar?
+     .slidebar links
     24. What is a pseudo selector?
+
     25. What do we use the change the spacing between lines?
+    
     26. What do we use to change the spacing between letters?
+
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+
     28. How do I add a 1px border around my div that is dotted and black?
+    border:dotted 1px;
     29. How do I select everything on the page? 
+     wrap a body selector around the content
     30. How do I write a comment in CSS?
-    31. How do I find out what file I am in, when I am using the command line? 
+    /*
+    31. How do I find out what file I am in, when I am using the command line?
+     cd cmd 
     32. Using the command line - how do I see a list of files/folders in my current folder?
+     ls cmd
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
+    
     34. Why should I use version control? 
+     so that all content is compatible
     35. How often should I commit to github?
+     often
     36. What is the command we would use to push our repo up to github? 
-    37. Walk me through Lambda's git flow. 
+     git push -u origin "name"
+    37. Walk me through Lambda's git flow.  
+    add .
+    git commit -m ""
+    git push -u origin ""
